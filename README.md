@@ -182,9 +182,9 @@ Use the global monthly co2 data:
 
 ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.csv
  
-<img src="https://github.com/ytakefuji/generativeAI/blob/main/GlobalTemp.png" height=300 width=500>
+<img src="https://github.com/y-takefuji/generativeAI/blob/main/GlobalTemp.png" height=300 width=500>
 
-<img src="https://github.com/ytakefuji/generativeAI/blob/main/contradict.png" height=400 width600>
+<img src="https://github.com/y-takefuji/generativeAI/blob/main/contradict.png" height=400 width600>
 
 Hint:
 
@@ -265,7 +265,7 @@ C,3
 C,5
 </pre>
 
-<img src="https://github.com/ytakefuji/generativeAI/blob/main/plot.png?raw=true" width=320 height=240>
+<img src="https://github.com/y-takefuji/generativeAI/blob/main/plot.png?raw=true" width=320 height=240>
 
 Hint: Each boxplot in a graphical indicates representation of the distribution of a dataset with the median, quartiles, and outliers of the data.
 
@@ -273,7 +273,7 @@ Hint: Each boxplot in a graphical indicates representation of the distribution o
 18.* Draw a graph of the following csv file without modifying csv contents.
 </b>
 
-use [medicare.csv](https://github.com/ytakefuji/generativeAI/blob/main/medicare.csv)
+use [medicare.csv](https://github.com/y-takefuji/generativeAI/blob/main/medicare.csv)
 
 The result should be shown.
 
