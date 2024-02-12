@@ -110,7 +110,7 @@ The range of "Age" values is from 40 to 74. The range of "HbA1c" values is from 
 
 The following diagram is produced by the AI-created program in Python.
 
-<img src="https://github.com/ytakefuji/generativeAI/blob/main/hbA1c_vs_age.png" height=240 width=320>
+<img src="https://github.com/y-takefuji/generativeAI/blob/main/hbA1c_vs_age.png" height=240 width=320>
 
 <b>
 7.0* Show a full code in Python to draw a graph of 4 country lines from 2000 to 2022 with SIPRI-Milex-data-1949-2022.csv
