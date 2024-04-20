@@ -27,7 +27,7 @@ References:
    
 Takefuji, Y. A brief tutorial on generative AI. Br Dent J 234, 845 (2023). https://doi.org/10.1038/s41415-023-6041-0
 
-Takefuji Y. Impact of COVID-19 on mental health in the US with generative AI. Asian J Psychiatr. 2023;88:103736. doi:10.1016/j.ajp.2023.103736
+Takefuji Y. Impact of COVID-19 on mental health in the US with generative AI. Asian J Psychiatr. 2023;88:103736. https://doi.org/10.1016/j.ajp.2023.103736
 
 Takefuji Y. An updated tutorial on reproducible PyPI applications for advancing chemometrics and boosting learner motivation. Chemometrics and Intelligent Laboratory Systems. (2023). https://doi.org/10.1016/j.chemolab.2023.104941
 
@@ -37,11 +37,11 @@ Takefuji Y. Generative AI for analysis and identification of Medicare improper p
 
 Takefuji, Y. Generative AI for diabetologists: a concise tutorial on dataset analysis. J Diabetes Metab Disord (2024). https://doi.org/10.1007/s40200-023-01377-0
 
-Takefuji Y. Vaccine effects on COVID-19 infection with bivalent boosting by age group. Drug Resist Updat. 2024;73:101039. doi:10.1016/j.drup.2023.101039
+Takefuji Y. Vaccine effects on COVID-19 infection with bivalent boosting by age group. Drug Resist Updat. 2024;73:101039. https://doi.org/10.1016/j.drup.2023.101039
 
 Takefuji, Y. Exploring Trends in Erectile Dysfunction Research from 2017 to 2023: A Focus on COVID-19, Mental Health, Psychiatry, and Drug. Sex Disabil (2024). https://doi.org/10.1007/s11195-024-09841-2
 
-Takefuji Y. Impact of COVID-19 on arthritis with generative AI. Int Immunopharmacol. Published online April 11, 2024. doi:10.1016/j.intimp.2024.112032
+Takefuji Y. Impact of COVID-19 on arthritis with generative AI. Int Immunopharmacol. Published online April 11, 2024. https://doi.org/10.1016/j.intimp.2024.112032
 
 Takefuji Y. Leveraging Human-AI Collaboration to Visualize Age-Related Diabetes Features Using Dataset. (2024). Archives of Gerontology and Geriatrics Plus. https://doi.org/10.1016/j.aggp.2024.100025
 
