@@ -75,7 +75,7 @@ Yoshiyasu Takefuji is a professor at **Musashino University** in the **Data Scie
 Source: Conversation with Bing, 2023/5/13
 (1) Yoshiyasu TAKEFUJI | Professor | Ph.D. Professor .... https://www.researchgate.net/profile/Yoshiyasu-Takefuji.
 (2) 武藤 佳恭 (Takefuji Yoshiyasu) - マイポータル - researchmap. https://researchmap.jp/ytakefuji.
-(3) ytakefuji (Yoshiyasu Takefuji) · GitHub. https://github.com/ytakefuji.
+(3) ytakefuji (Yoshiyasu Takefuji) · GitHub. https://github.com/y-takefuji.
 </pre>
 Hint:
 If AI does not respose to your query well, add an extra word such as Professor or Dr. in your dialog. In other words, ask "who is Professor yoshiyasu takefuji?" 
