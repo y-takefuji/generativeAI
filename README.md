@@ -1,4 +1,24 @@
 # How to use generative AI systems 
+
+This is a tutorial on how to use generative AI systems such as Bing.com with ChatGPT-4 and Bard for Data Science at Musashino University in Japan.
+
+There are two types of dialog generative AI systems: online interactive dialog AI via browser and terminal command AI in batch style. To use terminal command AI, their settings are required respectively.
+
+This repository will introduce six types of dialog AI systems: ChatGPT-3.5 with/without browser, Bing.com via Edge with ChatGPT-4 or EdgeGPT without browser, and Google Gemini with/without browser. EdgeGPT is based on ChatGPT-4: https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4
+
+The following three links are online interactive dialog AI systems via browser for free of charge:
+
+ChatGPT-3.5 via any browser: https://chat.openai.com/
+
+Gemini via any browser: https://gemini.google.com/
+
+Bing.com via Edge browser using ChatGPT-4: https://bing.com/chat
+
+<b>
+You need to practice interacting with the AI to accomplish the desired tasks. Practice makes perfect.
+It is important for users to be aware that generative AI may produce inaccurate responses due to insufficient training or the presence of incorrect data.
+</b>
+
 <b>
 References:
 </b>
@@ -24,25 +44,6 @@ Takefuji Y. Impact of COVID-19 on arthritis with generative AI. Int Immunopharma
 Takefuji Y. Leveraging Human-AI Collaboration to Visualize Age-Related Diabetes Features Using Dataset. (2024). Archives of Gerontology and Geriatrics Plus. https://doi.org/10.1016/j.aggp.2024.100025
 
 <img src='table.jpg' width=640 height=780>
-
-This is a tutorial on how to use generative AI systems such as Bing.com with ChatGPT-4 and Bard for Data Science at Musashino University in Japan.
-
-There are two types of dialog generative AI systems: online interactive dialog AI via browser and terminal command AI in batch style. To use terminal command AI, their settings are required respectively.
-
-This repository will introduce six types of dialog AI systems: ChatGPT-3.5 with/without browser, Bing.com via Edge with ChatGPT-4 or EdgeGPT without browser, and Google Gemini with/without browser. EdgeGPT is based on ChatGPT-4: https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4
-
-The following three links are online interactive dialog AI systems via browser for free of charge:
-
-ChatGPT-3.5 via any browser: https://chat.openai.com/
-
-Gemini via any browser: https://gemini.google.com/
-
-Bing.com via Edge browser using ChatGPT-4: https://bing.com/chat
-
-<b>
-You need to practice interacting with the AI to accomplish the desired tasks. Practice makes perfect.
-It is important for users to be aware that generative AI may produce inaccurate responses due to insufficient training or the presence of incorrect data.
-</b>
 
 # Examples via browser
 
