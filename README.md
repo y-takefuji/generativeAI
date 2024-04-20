@@ -45,7 +45,7 @@ References:
 
 10.Takefuji Y. Leveraging Human-AI Collaboration to Visualize Age-Related Diabetes Features Using Dataset. (2024). Archives of Gerontology and Geriatrics Plus. https://doi.org/10.1016/j.aggp.2024.100025
 
-<img src='table.jpg' width=350 height=250>
+<img src='table.jpg' width=700 height=500>
 https://learningdaily.dev/google-gemini-vs-chatgpt-everything-we-know-so-far-7af259fe3022
 
 # Examples via browser
