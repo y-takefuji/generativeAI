@@ -45,19 +45,19 @@ References:
 
 10.Takefuji Y. Leveraging Human-AI Collaboration to Visualize Age-Related Diabetes Features Using Dataset. (2024). Archives of Gerontology and Geriatrics Plus. https://doi.org/10.1016/j.aggp.2024.100025
 
-11. Takefuji, Y., Yamada, R. A New Role of Pseudorandom Number as Inductive Inference for Solving Classic Coin-Weighing Puzzles. SN COMPUT. SCI. 1, 162 (2020). https://doi.org/10.1007/s42979-020-00167-2
+11.Takefuji, Y., Yamada, R. A New Role of Pseudorandom Number as Inductive Inference for Solving Classic Coin-Weighing Puzzles. SN COMPUT. SCI. 1, 162 (2020). https://doi.org/10.1007/s42979-020-00167-2
 
-12. Takefuji Y. Airborne precautions are needed against COVID-19. J Infect Public Health. 2020;13(6):833. doi:10.1016/j.jiph.2020.05.015
+12.Takefuji Y. Airborne precautions are needed against COVID-19. J Infect Public Health. 2020;13(6):833. doi:10.1016/j.jiph.2020.05.015
 
-13. Takefuji Y. Japan's government must seek out expert scientists. Nature. 2020;586(7828):200. doi:10.1038/d41586-020-02813-4
+13.Takefuji Y. Japan's government must seek out expert scientists. Nature. 2020;586(7828):200. doi:10.1038/d41586-020-02813-4
 
-14. Takefuji Y. Fourier analysis using the number of COVID-19 daily deaths in the US. Epidemiology and Infection. 2021;149:e64. doi:10.1017/S0950268821000522
+14.Takefuji Y. Fourier analysis using the number of COVID-19 daily deaths in the US. Epidemiology and Infection. 2021;149:e64. doi:10.1017/S0950268821000522
 
-15. Takefuji Y. Artificial Intelligence Suggests that UAE Needs to Mitigate the Small COVID-19 Resurgence. Dubai Medical Journal. 2021;4(1):74-76. doi:10.1159/000514590
+15.Takefuji Y. Artificial Intelligence Suggests that UAE Needs to Mitigate the Small COVID-19 Resurgence. Dubai Medical Journal. 2021;4(1):74-76. doi:10.1159/000514590
 
-16. Takefuji Y. Converting detailed estimates to primary estimates with data augmentation. Advanced Engineering InformaticsVolume 49Issue, Aug 2021. https://doi.org/10.1016/j.aei.2021.101354
+16.Takefuji Y. Converting detailed estimates to primary estimates with data augmentation. Advanced Engineering InformaticsVolume 49Issue, Aug 2021. https://doi.org/10.1016/j.aei.2021.101354
 
-17. Takefuji Y. Analysis of digital fences against COVID-19. Health Technol (Berl). 2021;11(6):1383-1386. doi:10.1007/s12553-021-00597-9
+17.Takefuji Y. Analysis of digital fences against COVID-19. Health Technol (Berl). 2021;11(6):1383-1386. doi:10.1007/s12553-021-00597-9
 
 <img src='table.jpg' width=700 height=500>
 https://learningdaily.dev/google-gemini-vs-chatgpt-everything-we-know-so-far-7af259fe3022
