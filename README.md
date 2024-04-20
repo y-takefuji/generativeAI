@@ -19,7 +19,7 @@ You need to practice interacting with the AI to accomplish the desired tasks. Pr
 It is important for users to be aware that generative AI may produce inaccurate responses due to insufficient training or the presence of incorrect data.
 </b>
 
-
+<p></p>
 <b>
 References:
 </b>
