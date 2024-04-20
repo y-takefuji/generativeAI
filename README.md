@@ -1,4 +1,7 @@
 # How to use generative AI systems 
+<b>
+References:
+</b>
 
 Takefuji, Y. A brief tutorial on generative AI. Br Dent J 234, 845 (2023). https://doi.org/10.1038/s41415-023-6041-0
 
@@ -20,7 +23,7 @@ Takefuji Y. Impact of COVID-19 on arthritis with generative AI. Int Immunopharma
 
 Takefuji Y. Leveraging Human-AI Collaboration to Visualize Age-Related Diabetes Features Using Dataset. (2024). Archives of Gerontology and Geriatrics Plus. https://doi.org/10.1016/j.aggp.2024.100025
 
-
+<img src='table.jpg' width=640 height=780>
 
 This is a tutorial on how to use generative AI systems such as Bing.com with ChatGPT-4 and Bard for Data Science at Musashino University in Japan.
 
