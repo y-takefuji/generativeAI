@@ -45,7 +45,7 @@ Takefuji Y. Impact of COVID-19 on arthritis with generative AI. Int Immunopharma
 
 Takefuji Y. Leveraging Human-AI Collaboration to Visualize Age-Related Diabetes Features Using Dataset. (2024). Archives of Gerontology and Geriatrics Plus. https://doi.org/10.1016/j.aggp.2024.100025
 
-<img src='table.jpg' width=640 height=780>
+<img src='table.jpg' width=320 height=390>
 
 # Examples via browser
 
