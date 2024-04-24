@@ -59,7 +59,9 @@ References:
 
 17.Takefuji Y. Analysis of digital fences against COVID-19. Health Technol (Berl). 2021;11(6):1383-1386. doi:10.1007/s12553-021-00597-9
 
-18.Inose I. and Takefuji Y. COVID-19’s impact on drug overdose fatalities and urgent mental health care demand in the US Health and Technology (2024) https://doi.org/10.1007/s12553-024-00876-1
+18.Miyagawa, T., & Takefuji, Y. (2023). A time-series COVID-19 policy outcome analysis tool to measure human behavior from a herd instinct perspective. Health and technology, 1–6. Advance online publication. https://doi.org/10.1007/s12553-023-00759-x
+
+19.Inose I. and Takefuji Y. COVID-19’s impact on drug overdose fatalities and urgent mental health care demand in the US Health and Technology (2024) https://doi.org/10.1007/s12553-024-00876-1
 
 
 <img src='table.jpg' width=700 height=500>
