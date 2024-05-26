@@ -63,6 +63,9 @@ References:
 
 19.Inose I. and Takefuji Y. COVID-19’s impact on drug overdose fatalities and urgent mental health care demand in the US Health and Technology (2024) https://doi.org/10.1007/s12553-024-00876-1
 
+20.Y. Takefuji, Exploring the link between COVID-19 and coronary spasm, Journal of Cardiology Cases, https://doi.org/10.1016/j.jccase.2024.05.001 
+
+21.Takefuji, Y. Oral health's role in disease prevention. Br Dent J 236, 733–734 (2024). https://doi.org/10.1038/s41415-024-7464-y
 
 <img src='table.jpg' width=700 height=500>
 https://learningdaily.dev/google-gemini-vs-chatgpt-everything-we-know-so-far-7af259fe3022
