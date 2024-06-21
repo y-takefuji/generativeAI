@@ -431,10 +431,10 @@ Hint: no hint
 
 <b>
 30. Download the csv file (autism_prevalence_studies_20240511.csv) 
-   and draw a graph of autism prevalance using the following site:
+   and draw a graph of autism prevalance from the following site:
    https://data.cdc.gov/Public-Health-Surveillance/autism-prevalence-studies/9mw4-6adp/about_data
 
-   The program allows users to select one country name and specify the range of investigated year(s). 
+   The program allows users to select one country name and draw a line with the range of investigated year(s). 
    The line length is determined by the start and the end year. Print targeted age(s) with vertical bar and the number of cases.
 
 <img src="prevalence.jpg" width=450 height=300>
