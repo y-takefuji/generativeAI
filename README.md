@@ -436,7 +436,7 @@ Hint: no hint
    The program allows users to select one country name and specify the range of investigated year(s). 
    The line length is determined by the start and the end year. Print target age(s) and the number of cases.
 
-<img src="prevalence.png" width=320 height=240>
+<img src="prevalence.jpg" width=320 height=240>
 
 
 
