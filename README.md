@@ -67,6 +67,12 @@ References:
 
 21.Takefuji, Y. Oral health's role in disease prevention. Br Dent J 236, 733–734 (2024). https://doi.org/10.1038/s41415-024-7464-y
 
+22.Takefuji, Y. Eye diseases: a global concern across age, race, and environment. Eye (2024). https://doi.org/10.1038/s41433-024-03179-x
+
+23.Takefuji, Y. Worldwide burnout in dentists. Br Dent J 236, 857 (2024). https://doi.org/10.1038/s41415-024-7511-8
+
+24.Takefuji, Y. Recent insights into the prevalence of mental health disorders in the veterinary profession. Research in Veterinary Science, Volume 176, 2024. https://doi.org/10.1016/j.rvsc.2024.105338.
+
 <img src='table.jpg' width=700 height=500>
 https://learningdaily.dev/google-gemini-vs-chatgpt-everything-we-know-so-far-7af259fe3022
 
