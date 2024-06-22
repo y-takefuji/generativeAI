@@ -436,7 +436,7 @@ Hint: CDC dataset
 Hint: no hint
 
 <b>
-30. Download the csv file (autism_prevalence_studies_XXXXX.csv) 
+30.* Download the csv file (autism_prevalence_studies_XXXXX.csv) 
    and draw a graph of autism prevalance from the following site:
    https://data.cdc.gov/Public-Health-Surveillance/autism-prevalence-studies/9mw4-6adp/about_data
 
