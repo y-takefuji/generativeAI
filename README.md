@@ -437,7 +437,7 @@ Hint: no hint
    The program allows users to select one country name and draw a line with the range of investigated year(s). 
    The line length is determined by the start and the end year. Print targeted age(s) with vertical bar and the number of cases.
 
-<img src="prevalence.jpg" width=640 height=480>
+<img src="USA.jpg" width=640 height=480>
 
 <img src="Spain.jpg" width=640 height=480>
 
