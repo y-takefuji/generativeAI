@@ -452,6 +452,11 @@ Hint: no hint
 Hint: NOAA.
 </b>
 
+<b>32.****VOCs is pollutants for harming human health, but VOCs radiated by sun can produce ozone or o3. 
+They are called ground-level ozone. Tropical ozone reaches the upper level of the atmosphere due to a process known as the Brewer-Dobson circulation. If the new technology can mitigate the tropopause, we may thicken the ozone upper layer 
+to protect skin cancer. 
+Create ideas of such new technology. Negative phenomena can be converted to beneficial to humans.
+</b>
 
 # Challenging EXAMPLES
 <b>
