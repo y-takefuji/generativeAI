@@ -453,7 +453,7 @@ Hint: no hint
 
 <img src="Spain.jpg" width=640 height=480>
 
-<b>31.**In the world, global warming and sea level rise are causing a stir, but there are also places where sea level fall is being measured. Find the dataset and create graphs as many examples as possible. 
+<b>31.**In the world, global warming and sea level rise are causing a stir, but there are also places where sea level fall is being measured. Find the dataset and create graphs as many examples as possible. This is a good example of why we should not blindly accept information from the media, government, and international organizations
 
 Hint: NOAA.
 </b>
