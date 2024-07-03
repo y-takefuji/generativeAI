@@ -79,7 +79,7 @@ https://learningdaily.dev/google-gemini-vs-chatgpt-everything-we-know-so-far-7af
 The difficulty level is indicated by the number of asterisks (*). The more asterisks, the higher the difficulty. You should comple problems without asterisks before challenging asterisks problems.
 
 <b>
-1. Query to AI: show Python code to display a graph with data.csv 
+1. Query to AI: show Python code to display a graph with data.csv. 
    Use 'x' as an independent variable and 'y' is a dependent variable.
 </b>
 
