@@ -106,6 +106,7 @@ Dr. Yoshiyasu Takefuji is a renowned academic and researcher in the field of eng
 Hint:
 If AI does not respose to your query well, add an extra word such as Professor or Dr. in your dialog. In other words, ask "who is Professor yoshiyasu takefuji?" 
 
+<p></p>
 <b>
 3. Query to AI: show a list of publications by yoshiyasu takefuji in 2023.
 </b>
