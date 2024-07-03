@@ -1,25 +1,23 @@
 # How to use generative AI systems 
 
-This is a tutorial on how to use generative AI systems such as Bing.com with ChatGPT-4 and Gemini for Data Science　students at Musashino University in Japan.
+This tutorial is designed to guide Data Science students at Musashino University, Japan, on how to utilize generative AI systems such as Bing.com with ChatGPT-4 and Gemini.
 
-There are two types of dialog generative AI systems: online interactive dialog AI via browser and terminal command AI in batch style. To use terminal command AI, their settings are required respectively.
+Generative AI systems for dialogue can be broadly classified into two categories: online interactive dialogue AI, which operates via a browser, and terminal command AI, which operates in a batch style. Each type of terminal command AI requires specific settings for use, yet they are all available at no cost.
 
-This repository will introduce six types of dialog AI systems: ChatGPT-3.5 with/without browser, Bing.com via Edge with ChatGPT-4 or EdgeGPT without browser, and Google Gemini with/without browser. EdgeGPT is based on ChatGPT-4: https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4
+This repository provides an introduction to four distinct types of dialogue AI systems: Bing.com of Copilot via Edge (ChatGPT-4), and EdgeGPT without a browser, and Google Gemini (with and without a browser). It's worth noting that EdgeGPT is built upon the ChatGPT-4 framework: https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4
 
-The following three links are online interactive dialog AI systems via browser for free of charge:
-
-ChatGPT-3.5 via any browser: https://chat.openai.com/
+The following two links are online interactive dialog AI systems via browser for free of charge:
 
 Gemini via any browser: https://gemini.google.com/
 
-Bing.com via Edge browser using ChatGPT-4: https://bing.com/chat
+Bing.com via Edge browser using ChatGPT-4: https://bing.com/copilot
 
 <b>
 You need to practice interacting with the AI to accomplish the desired tasks. Practice makes perfect.
-It is important for users to be aware that generative AI may produce inaccurate responses due to insufficient training or the presence of incorrect data. The validity and usefulness of this tutorial on generative AI have been confirmed by peer-reviewed journal articles. These articles attest to the tutorial's accuracy.
+It is important for users to be aware that generative AI may produce inaccurate responses due to insufficient training or the presence of incorrect data. The validity and usefulness of this tutorial on generative AI have been confirmed by published peer-reviewed journal articles. These articles attest to the tutorial's accuracy.
 </b>
 
-<p></p>
+<p>
 <b>
 References:
 </b>
