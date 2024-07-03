@@ -76,11 +76,11 @@ https://learningdaily.dev/google-gemini-vs-chatgpt-everything-we-know-so-far-7af
 
 # Examples via browser
 
-The difficulty level is indicated by the number of asterisks (*). The more asterisks, the higher the difficulty. 
+The difficulty level is indicated by the number of asterisks (*). The more asterisks, the higher the difficulty. You should comple problems without asterisks before challenging asterisks problems.
 
 <b>
-1. Query to AI: show a code in Python to display a graph with data.csv 
-   composed of x and y determinants.
+1. Query to AI: show Python code to display a graph with data.csv 
+   Use 'x' as an independent variable and 'y' is a dependent variable.
 </b>
 
 <pre>
@@ -100,12 +100,8 @@ plt.show()
 </b>
 <pre>
 Answer from AI:
-Yoshiyasu Takefuji is a professor at **Musashino University** in the **Data Science** department². He has a Ph.D. and his research interests include cyber-security, machine learning, neural computing, energy harvesting, IoT, automated reasoning, and applied AI². He has developed AI prototypes that outperform super-skilled humans in civil engineering and construction, marketing, skin cancers, and many other areas². Is there anything else you would like to know about him?
-
-Source: Conversation with Bing, 2023/5/13
-(1) Yoshiyasu TAKEFUJI | Professor | Ph.D. Professor .... https://www.researchgate.net/profile/Yoshiyasu-Takefuji.
-(2) 武藤 佳恭 (Takefuji Yoshiyasu) - マイポータル - researchmap. https://researchmap.jp/ytakefuji.
-(3) ytakefuji (Yoshiyasu Takefuji) · GitHub. https://github.com/y-takefuji.
+Dr. Yoshiyasu Takefuji is a renowned academic and researcher in the field of engineering. He is currently a professor at Musashino University1. Prior to this, he was a tenured professor on the faculty of environmental information at Keio University from April 1992 to March 20211. He also served on the tenured faculty of Electrical Engineering at Case Western Reserve University since 1988.
+   ...
 </pre>
 Hint:
 If AI does not respose to your query well, add an extra word such as Professor or Dr. in your dialog. In other words, ask "who is Professor yoshiyasu takefuji?" 
@@ -116,10 +112,19 @@ If AI does not respose to your query well, add an extra word such as Professor o
 <pre>
 Answer from AI:
 I’m sorry, but I couldn’t find any specific information about publications by Yoshiyasu Takefuji in 2023. Would you like to know about his publications from another year or more general information about his work?
+
+As of July 4, 2024, AI gives the following:
+Here are some of the publications by Dr. Yoshiyasu Takefuji in 2023:
+
+1. "Why the power of diversity does not always produce better groups and societies" published in Biosystems³.
+2. "International Companies and Governments Need to be Alerted to a Fatal Flaw in DOI Management Policy to Prevent Security Breaches" published in Digital Society³.
+
+Please note that this list might not be exhaustive. For a complete list of his publications, you may want to check academic databases or his Google Scholar¹ and ORCID² profiles.
+
 </pre>
 <b>
 4. Query to AI: show a list of publications by yoshiyasu takefuji in 2023 
-   with search query command of "yoshiyasu takefuji site:nih.gov after:2023-1-1"
+   with search query command of "yoshiyasu takefuji site:nih.gov after:2022-12-31"
 </b>
 <pre>
 Answer from AI:
@@ -128,6 +133,8 @@ doi: 10.1016/j.simpa.2023.100466
 
 Review of hikikomori: A global health issue, identification and treatment
 doi: 10.1016/j.ajp.2023.103596
+
+...
 </pre>
 <b>
 5. Query to AI: summarize them.
