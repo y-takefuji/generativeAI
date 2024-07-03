@@ -17,7 +17,7 @@ You need to practice interacting with the AI to accomplish the desired tasks. Pr
 It is important for users to be aware that generative AI may produce inaccurate responses due to insufficient training or the presence of incorrect data. The validity and usefulness of this tutorial on generative AI have been confirmed by published peer-reviewed journal articles. These articles attest to the tutorial's accuracy.
    
 </b>
-
+<p></p>
 <b>
 References: 
 </b>
