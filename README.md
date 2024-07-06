@@ -464,7 +464,7 @@ Hint: NOAA.
 <b>33.**The 2007 Nobel Peace Prize was shared, in two equal parts, between the Intergovernmental Panel on Climate Change (IPCC) (founded in 1988) and United States former vice president, Al Gore. In 2021, the Nobel Prize in physics was awarded to scientists Syukuro Manabe of the United States and Klaus Hasselmann of Germany for work that laid the foundation for current climate models. Numerous studies have highlighted the significant role of human-induced CO2 emissions in contributing to global warming. However, the COVID-19 lockdowns have led to a substantial reduction in these emissions. Specifically, during the peak of the lockdowns, human-induced CO2 emissions were reduced by approximately 60%. To gain a deeper understanding of this phenomenon, it is crucial to examine relevant datasets and discern the truth. During the lockdowns, NOAA datasets suggest that global CO2 emissions including natural and human-induced CO2 increased.
 </b>
 
-<b>34.** Download the dataset from the following site to create a graph on Long COVID trends.</b>
+<b>34.** Download the dataset from the following site to create a graph on Long COVID trends by age and by sex.</b>
 
 https://data.cdc.gov/NCHS/Post-COVID-Conditions/gsea-w83j/about_data
 
