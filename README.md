@@ -485,12 +485,32 @@ Hint: NOAA.
 <b>33.**The 2007 Nobel Peace Prize was shared, in two equal parts, between the Intergovernmental Panel on Climate Change (IPCC) (founded in 1988) and United States former vice president, Al Gore. In 2021, the Nobel Prize in physics was awarded to scientists Syukuro Manabe of the United States and Klaus Hasselmann of Germany for work that laid the foundation for current climate models. Numerous studies have highlighted the significant role of human-induced CO2 emissions in contributing to global warming. However, the COVID-19 lockdowns have led to a substantial reduction in these emissions. Specifically, during the peak of the lockdowns, human-induced CO2 emissions were reduced by approximately 60%. To gain a deeper understanding of this phenomenon, it is crucial to examine relevant datasets and discern the truth. During the lockdowns, NOAA datasets suggest that global CO2 emissions including natural and human-induced CO2 increased.
 </b>
 
-<b>34.** Download the dataset from the following site to create a graph on Long COVID trends by age and by sex.</b>
+<b>34.** Download the dataset from the following site to create a graph on Long COVID trends by age and by sex
+from 2019 to 2024.</b>
 
 https://data.cdc.gov/NCHS/Post-COVID-Conditions/gsea-w83j/about_data
 
 <img src='age.png' height=480 width=640>
 <p></p>
+
+<b>35.*** Download the datasets from the following site to create a graph on disparity trends by race and gender.
+X-axis indicates year from 2019 to 2024 while Y-axis shows p-value</b>
+
+Gov. Downtown Austin Community Court DACC FY2019 Caseload Information. Accessed on July 28. https://data.austintexas.gov/api/views/9e8e-ghwx/rows.csv?accessType=DOWNLOAD
+
+Gov. Downtown Austin Community Court DACC FY2020 Caseload Information. Accessed on July 28. https://data.austintexas.gov/api/views/vgqi-hjzx/rows.csv?accessType=DOWNLOAD
+
+Gov. Downtown Austin Community Court DACC FY2021 Caseload Information. Accessed on July 28. https://data.austintexas.gov/api/views/448k-h8t4/rows.csv?accessType=DOWNLOAD
+
+Gov. Downtown Austin Community Court DACC FY2022 Caseload Information. Accessed on July 28.  https://data.austintexas.gov/api/views/56au-zawf/rows.csv?accessType=DOWNLOAD
+
+Gov. Downtown Austin Community Court DACC FY2023 Caseload Information. Accessed on July 28. https://data.austintexas.gov/api/views/4tje-ntwx/rows.csv?accessType=DOWNLOAD
+
+Gov. Downtown Austin Community Court DACC FY2024 Caseload Information. Accessed on July 28. https://data.austintexas.gov/api/views/mv2b-q2wb/rows.csv?accessType=DOWNLOAD
+
+
+
+
 
 # Challenging EXAMPLES
 <b>
