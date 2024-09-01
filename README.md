@@ -71,6 +71,27 @@ References:
 
 24.Takefuji, Y. Recent insights into the prevalence of mental health disorders in the veterinary profession. Research in Veterinary Science, Volume 176, 2024. https://doi.org/10.1016/j.rvsc.2024.105338.
 
+25.Takefuji, Y. Exploring the impact of dental metal ions. Br Dent J 237, 11 (2024). British Dental Journal. https://doi.org/10.1038/s41415-024-7632-0
+
+26.Takefuji, Y. Herpes zoster ophthalmicus: COVID-19 impact and clinical implications. Eye (2024). https://doi.org/10.1038/s41433-024-03233-8
+
+27.Hirano S-i, Takefuji Y. Molecular Hydrogen Protects against Various Tissue Injuries from Side Effects of Anticancer Drugs by Reducing Oxidative Stress and Inflammation. Biomedicines. 2024; 12(7):1591. https://doi.org/10.3390/biomedicines12071591
+
+28.Takefuji, Y. PyPI: An internet-enabled learning tool to boost learner motivation for crop protection. Journal of Natural Pesticide Research, Volume 10, 2024, 100089, ISSN 2773-0786. https://doi.org/10.1016/j.napere.2024.100089.
+
+29.Takefuji, Y. Time-series vaccine effects on preventing COVID-19 infection and death among adults aged 50-64 and 65+. Archives of Gerontology and Geriatrics Plus (2024. https://doi.org/10.1016/j.aggp.2024.100063
+
+30.Takefuji, Y. Autonomous AI shaft excavator: a case study on AI fairness for sustainability and green technology. Constr Robot 8, 16 (2024). https://doi.org/10.1007/s41693-024-00134-w
+
+31.Takefuji, Y. Burnout among ophthalmologists: a global review, gender impact, and the role of AI in mitigation. Eye (2024). https://doi.org/10.1038/s41433-024-03289-6
+
+32.Takefuji, Y. Enhancing ESG Practices in Lithium Battery Recycling: A Review of Current Policies and Proposed Solutions. Mater Circ Econ 6, 51 (2024). https://doi.org/10.1007/s42824-024-00146-5
+
+33.Takefuji, Y. (2024). Unveiling inequality: A deep dive into racial and gender disparities in US court case closures. Cities, 154, 105398. https://doi.org/10.1016/j.cities.2024.105398
+
+34.Takefuji Y. Long-COVID trends in the US: Analyzing sex and age among 50–59, 60–69, 70–79, and 80+ year olds. Arch Gerontol Geriatr Plus. 2024;1(4):100073. doi:10.1016/j.aggp.2024.100073.
+
+
 <img src='table.jpg' width=700 height=500>
 https://learningdaily.dev/google-gemini-vs-chatgpt-everything-we-know-so-far-7af259fe3022
 
