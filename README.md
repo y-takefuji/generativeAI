@@ -1,4 +1,4 @@
-# How to use generative AI systems 
+# How to use generative AI systems
 
 This tutorial is designed to guide Data Science students at Musashino University, Japan, on how to utilize generative AI systems such as Bing.com with ChatGPT-4 and Gemini.
 
