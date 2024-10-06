@@ -519,7 +519,7 @@ We can then compare these two scenarios using three metrics: sensitivity, specif
 Additionally, discuss whether the quality of the screening is improving or declining. 
 You should describe the search commands used to find the two scenarios. In this specific example, the tests are for breast cancer in the U.S. and have different test periods.
 
-<b>37.* Prove accuracy=sensitivityXprevalence+specificityX(1-prevalence) using TP, TN, FP and FN.</b>
+<b>37.* Prove accuracy=sensitivity\*prevalence+specificity\*(1-prevalence) using TP, TN, FP and FN.</b>
 
 Hint: prevalence can be expressed by TP, TN, FP and FN?
 
