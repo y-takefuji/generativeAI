@@ -514,11 +514,14 @@ Gov. Downtown Austin Community Court DACC FY2024 Caseload Information. Accessed 
 An example of a confusion matrix is the U.S. breast cancer test: 
 https://neuro.musashino-u.ac.jp/~takefuji/bcancer.pdf
 
-
 Following this example, you can use the same disease, change the disease, change the country, or change the time period to find two scenarios to compare. 
 We can then compare these two scenarios using three metrics: sensitivity, specificity, and accuracy. 
 Additionally, discuss whether the quality of the screening is improving or declining. 
 You should describe the search commands used to find the two scenarios. In this specific example, the tests are for breast cancer in the U.S. and have different test periods.
+
+<b>37. Prove accuracy=sensitivity*prevalence+specificity(1-prevalence) using TP, TN, FP and FN.</b>
+
+Hint: prevalence can be expressed by TP, TN, FP and FN?
 
 
 
