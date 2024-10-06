@@ -523,6 +523,7 @@ You should describe the search commands used to find the two scenarios. In this 
 
 Hint: prevalence can be expressed by TP, TN, FP and FN?
 
+<b>38.* Demonstrate why feature importances in machine learning do not accurately reflect the true associations between the target and features, whereas Chi-squared tests and p-values indicate genuine associations.
 
 
 # Challenging EXAMPLES
