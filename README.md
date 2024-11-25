@@ -148,8 +148,6 @@ plt.show()
   - Approximately (in mathematical contexts)  
   - Home Directory (in Unix/Linux file paths)  
 </pre>
-Hint:
-If AI does not respose to your query well, add an extra word such as Professor or Dr. in your dialog. In other words, ask "who is Professor yoshiyasu takefuji?" 
 
 <p></p>
 <b>
