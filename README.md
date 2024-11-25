@@ -117,12 +117,36 @@ plt.plot(x, y)
 plt.show()
 </pre>
 <b>
-2. Query to AI: who is yoshiyasu takefuji?
+2. Query to AI: what do you call the following symbols with alternative names such as * ; : # " ' ~
 </b>
 <pre>
-Answer from AI:
-Dr. Yoshiyasu Takefuji is a renowned academic and researcher in the field of engineering. He is currently a professor at Musashino University1. Prior to this, he was a tenured professor on the faculty of environmental information at Keio University from April 1992 to March 20211. He also served on the tenured faculty of Electrical Engineering at Case Western Reserve University since 1988.
-   ...
+- *  
+  - Asterisk  
+  - Star  
+  - Multiplication Sign (in mathematics)  
+- ;  
+  - Semicolon  
+  - Statement Separator (in programming)  
+- :  
+  - Colon  
+  - Ratio Symbol (for indicating ratios)  
+  - Time Separator (for denoting time)  
+- #  
+  - Number Sign (U.S.)  
+  - Hash (more commonly used in the UK and in digital contexts, e.g., hashtags in social media)  
+  - Pound Sign (occasionally used, but can also refer to currency)  
+  - Comment Symbol (in many programming languages)  
+- "  
+  - Quotation Mark (U.S.)  
+  - Double Quote  
+  - Speech Mark (UK)  
+- '  
+  - Apostrophe  
+  - Single Quote  
+- ~  
+  - Tilde  
+  - Approximately (in mathematical contexts)  
+  - Home Directory (in Unix/Linux file paths)  
 </pre>
 Hint:
 If AI does not respose to your query well, add an extra word such as Professor or Dr. in your dialog. In other words, ask "who is Professor yoshiyasu takefuji?" 
