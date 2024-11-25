@@ -155,7 +155,8 @@ plt.show()
 </b>
 <pre>
 Answer from AI:
-I’m sorry, but I couldn’t find any specific information about publications by Yoshiyasu Takefuji in 2023. Would you like to know about his publications from another year or more general information about his work?
+I’m sorry, but I couldn’t find any specific information about publications by Yoshiyasu Takefuji in 2023. 
+Would you like to know about his publications from another year or more general information about his work?
 
 As of July 4, 2024, AI gives the following:
 Here are some of the publications by Dr. Yoshiyasu Takefuji in 2023:
