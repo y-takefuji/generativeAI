@@ -553,6 +553,7 @@ A.supervised machine learning (classification)
 B.clustering
 C.supervised machine learning regression
 D.principal component analysis
+F.feature importances from machine learning models
 
 
 
