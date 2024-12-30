@@ -548,6 +548,13 @@ Hint: prevalence can be expressed by TP, TN, FP and FN?
 
 <b>38.* Demonstrate why feature importances in machine learning do not accurately reflect the true associations between the target and features, whereas Chi-squared tests and p-values indicate genuine associations.
 
+<b>39.* Determine whether it has ground truth values or not. 
+A.supervised machine learning (classification)
+B.clustering
+C.supervised machine learning regression
+D.principal component analysis
+
+
 
 # Challenging EXAMPLES
 <b>
